@@ -147,6 +147,6 @@ boto3
 ## 👤 Author
 
 **Vineeth M R**
-- Background: Mechanical Engineering (B.E.) + Data Science (M.S.)
+- Background: Mechanical Engineering (B.Tech) + Data Science (M.S.)
 - Upskilling in Data Engineering on AWS
 - Email: vineethmravish@outlook.com
